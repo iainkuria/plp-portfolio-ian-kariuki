@@ -28,7 +28,7 @@ It showcases not just what I’ve learned, but who I am and where I’m headed i
 
 ## 🔗 Live Website
 
-👉 [View My Portfolio on GitHub Pages](https://iankariuki-portfolio.netlify.app/)
+👉 [View My Portfolio](https://iankariuki-portfolio.netlify.app/)
 
 ---
 
