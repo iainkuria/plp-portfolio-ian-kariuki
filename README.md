@@ -28,7 +28,7 @@ It showcases not just what I’ve learned, but who I am and where I’m headed i
 
 ## 🔗 Live Website
 
-👉 [View My Portfolio on GitHub Pages](https://iainkariuki.github.io/plp-portfolio-ian-kariuki)
+👉 [View My Portfolio on GitHub Pages](https://iankariuki-portfolio.netlify.app/)
 
 ---
 
@@ -65,7 +65,7 @@ Feel free to connect or reach out:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ian-kariuki-587b33362)  
 - 🧑‍💻 [GitHub](https://github.com/iainkariuki)  
-- ✉️ [Contact Form on Website](https://iainkariuki.github.io/plp-portfolio-ian-kariuki/#contact)
+- ✉️ [Contact Form on Website](https://iankariuki-portfolio.netlify.app/#contact)
 
 ---
 
