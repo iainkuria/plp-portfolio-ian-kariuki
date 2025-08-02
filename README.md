@@ -1,4 +1,3 @@
-# Ian Kariuki Portfolio
+# Ian Kariuki - Cybersecurity & Digital Forensics Portfolio
 
-A personal portfolio website created for the PLP July 2025 Hackathon. Showcasing my skills, education, interests, and projects in cybersecurity and digital forensics.
-
+This portfolio was created for the PLP July 2025 Hackathon 1.
