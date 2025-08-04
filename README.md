@@ -7,65 +7,66 @@ It reflects my journey as an aspiring **Cybersecurity** and **Digital Forensics*
 
 ## 💡 About This Project
 
-This portfolio was created using **HTML and CSS**, with a focus on clean design, clarity, and purpose.  
-It showcases not just what I’ve learned, but who I am and where I’m headed in the tech space.
+This portfolio was built using **HTML and CSS**, with a focus on clean design, clarity, and purpose.  
+It presents not just what I’ve learned, but who I am and where I’m headed in the tech space.
 
 ---
 
 ## 🔍 What You’ll Find
 
-- **About Me** – My background and path toward cyber forensics  
-- **Skills & Tools** – Languages, software, and technical interests  
-- **Education** – BSc in Forensic Science (Kirinyaga University, 2017–2021)  
-- **Certifications** – Credly badges and achievements  
-- **Projects** – A brief look at work in progress and completed tasks  
-- **Interests** – Fields I’m exploring in tech  
-- **Contact Form** – For collaborations, questions, or networking  
-- **Dark/Light Mode Toggle** – A clean user experience for all preferences  
-- **Personal Image & CV** – Adds authenticity and access to my resume
+- **About Me** – My background and path into cyber forensics  
+- **Skills & Tools** – Languages, platforms, and technical interests  
+- **Education** – BSc in Forensic Science and relevant training  
+- **Certifications** – Verified badges and learning milestones  
+- **Projects** – Hands-on work in progress and simulations  
+- **Interests** – Areas I’m exploring in tech and security  
+- **Contact Form** – For collaborations or professional inquiries  
+- **Dark/Light Mode Toggle** – Enhancing user experience  
+- **Personal Image & CV** – Adds authenticity and easy access to my resume
 
 ---
 
-## 🔗 Live Website
+## 🌐 Live Site
 
-👉 [View My Portfolio](https://iankariuki-portfolio.netlify.app/)
+🔗 [View My Portfolio](https://iankariuki-portfolio.netlify.app/)
 
 ---
 
 ## ⚙️ Built With
 
-- HTML5 & CSS3 (with Flexbox and basic animations)  
-- Git & GitHub for version control and deployment  
-- VS Code for development  
+- HTML5 & CSS3 (Flexbox, animations, responsive design)  
+- Git & GitHub for version control  
+- Netlify for deployment  
+- Visual Studio Code  
 - Credly for certification verification
 
 ---
 
 ## 🎯 Why I Built This
 
-This project allowed me to:
+This project helped me:
 
-- Apply web development skills I’ve been learning
-- Present my cyber forensics journey in a creative, structured way
-- Participate in the PLP Hackathon challenge and learn through experience
+- Apply practical web development skills  
+- Present my cybersecurity journey in a clear, structured way  
+- Participate in the PLP Hackathon and build real-world experience  
 
 ---
 
 ## 📈 What’s Next
 
-- Add interactive JavaScript features (e.g., form validation, project filters)  
-- Include real-world case studies and tools walkthroughs  
-- Expand project section as I gain hands-on experience
+- Add JavaScript for interactivity (form validation, filters, animations)  
+- Expand the project section with deeper case studies and tool walkthroughs  
+- Continue refining my skills and certifications in cybersecurity
 
 ---
 
-## 📬 Get In Touch
+## 📬 Contact Me
 
-Feel free to connect or reach out:
+Let’s connect:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ian-kariuki-587b33362)  
-- 🧑‍💻 [GitHub](https://github.com/iainkariuki)  
-- ✉️ [Contact Form on Website](https://iankariuki-portfolio.netlify.app/#contact)
+- [LinkedIn](https://www.linkedin.com/in/ian-kariuki-587b33362)  
+- [GitHub](https://github.com/iainkariuki)  
+- [Contact Form](https://iankariuki-portfolio.netlify.app/#contact)
 
 ---
 
