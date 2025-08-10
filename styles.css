@@ -408,6 +408,13 @@ section {
     font-size: 0.9rem;
 }
 
+/* Certification Pulse Animation */
+@keyframes pulse {
+    0% { opacity: 0.9; }
+    50% { opacity: 1; }
+    100% { opacity: 0.9; }
+}
+
 /* Certifications Section */
 .certifications-container {
     display: grid;
@@ -434,32 +441,14 @@ section {
 }
 
 .certification-card.in-progress {
+    animation: pulse 2s infinite;
     border-left: 4px solid var(--accent-green);
     position: relative;
-    overflow: hidden;
-}
-
-.certification-card.in-progress::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0, 255, 153, 0.05);
-    z-index: -1;
-    animation: pulse 2s infinite;
 }
 
 .certification-card.planned {
     opacity: 0.8;
     filter: grayscale(30%);
-}
-
-@keyframes pulse {
-    0% { opacity: 0.1; }
-    50% { opacity: 0.2; }
-    100% { opacity: 0.1; }
 }
 
 .certification-card i {
@@ -805,6 +794,7 @@ footer {
 }
 
 @media (max-width: 480px) {
+    /* Header improvements */
     header {
         padding: 0.8rem 1rem !important;
     }
@@ -814,6 +804,7 @@ footer {
         gap: 0.5rem;
     }
     
+    /* Hero section spacing */
     .hero {
         min-height: auto;
         padding: 4rem 1rem 2rem;
@@ -833,6 +824,7 @@ footer {
         font-size: 1.2rem;
     }
     
+    /* Section spacing */
     section {
         padding: 2.5rem 0;
     }
@@ -841,16 +833,19 @@ footer {
         font-size: 1.8rem;
     }
     
+    /* Card adjustments */
     .skill-card, 
     .certification-card,
     .interest-card {
         padding: 1.2rem;
     }
     
+    /* Contact form */
     .contact-container {
         gap: 1.5rem;
     }
     
+    /* Reduce heavy effects on mobile */
     .skill-card,
     .certification-card,
     .tool-card,
@@ -870,5 +865,9 @@ footer {
     
     .progress-level {
         transition: none !important;
+    }
+    
+    .certification-card.in-progress {
+        animation: none !important;
     }
 }
