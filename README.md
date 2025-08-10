@@ -66,7 +66,7 @@ Let’s connect:
 
 - [LinkedIn](https://www.linkedin.com/in/ian-kariuki-587b33362)  
 - [GitHub](https://github.com/iainkuria)  
-- [Contact Form](https://iankuria-portfolio.netlify.app/#contact)
+- [Contact Form](https://iankariuki-portfolio.netlify.app/#contact)
 
 ---
 
